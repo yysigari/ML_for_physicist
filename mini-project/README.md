@@ -1,22 +1,4 @@
-![ML for physicist banner](https://user-images.githubusercontent.com/51282928/80908777-ee1b0300-8d4c-11ea-9c42-36378a4d811b.PNG)
-
-## Machine Learning for Physicist 2020 Summer Course
-
-> **Instructor**: Prof. Florian Marquardt<br>
-> **Institution**: Max Planck Institute for the Science of Light, Erlangen, Germany
-
-### Links
-
-* [Course Website](https://pad.gwdg.de/s/HJtiTE__U)
-* [Course GitHub](https://github.com/FlorianMarquardt/machine-learning-for-physicists)
-* [Google Group](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/machine-learning-for-physicists)
-* [2019 course videos](https://podcasts.apple.com/us/podcast/id1490099216)
-* [2019 Les Houches lecture handout](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/materials/LesHouchesMachLearning_Complete2.pdf)
-* [Participant's Final Projects](https://owncloud.gwdg.de/index.php/s/bQYXNaqsL0W9O7h)
-
-### ANN4EOR. My Mini Project
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4001754.svg)](https://doi.org/10.5281/zenodo.4001754)
+### My Mini Project
 
 #### Access to my notebook [here](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/mini-project/eor_screening_neural_network.ipynb)
 
